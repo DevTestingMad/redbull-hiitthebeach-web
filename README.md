@@ -134,11 +134,8 @@ npm run dev
 Then open: [http://localhost:3000](http://localhost:3000)
 
 ---
-
 ## Extending
 
 - Add input validation with **zod**.
-- Replace `/api/send` with real SendGrid/Twilio integration.
-
 ---
 
